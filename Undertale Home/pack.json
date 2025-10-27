@@ -1,0 +1,10 @@
+{
+  "name": "Toby Fox - Home",
+  "description": "Undertale music Home by Toby Fox to play at Steam's Home Screen to mame you feel.. home?",
+  "author": "atalamcom",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
